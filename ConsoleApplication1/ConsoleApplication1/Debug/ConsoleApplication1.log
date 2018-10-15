@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\ннгу\биоинформатика\consoleapplication1\consoleapplication1\main.cpp(24): warning C4018: <: несоответствие типов со знаком и без знака
+d:\ннгу\биоинформатика\consoleapplication1\consoleapplication1\main.cpp(39): warning C4018: <: несоответствие типов со знаком и без знака
+  ConsoleApplication1.vcxproj -> D:\ННГУ\Биоинформатика\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> D:\ННГУ\Биоинформатика\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
